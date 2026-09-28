@@ -1,7 +1,3 @@
-Here is a rewritten version of your README. It keeps all your technical details and structure but flows much more naturally, reading like a passionate developer explaining a project they are proud of rather than a generic boilerplate template.
-
----
-
 # 🏥 CarePulse Healthcare
 
 **A Full-Stack Hospital Appointment & Queue Management System**
