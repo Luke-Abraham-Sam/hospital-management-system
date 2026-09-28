@@ -217,11 +217,6 @@ Access client at `http://localhost:5173`.
 - [x] Admin Stats Analytics & Doctor Creation
 - [x] Protected Routes & Role Authorization
 
----
-
-## 📸 Screenshots
-
-*(Add application screenshots here after deployment)*
 
 ---
 
